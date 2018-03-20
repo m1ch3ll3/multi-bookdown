@@ -13,3 +13,7 @@ Hope this helps!
 Sincerely,
 
 m1ch3ll3
+
+This repository is the result of several hours spent playing with bookdown after exploring the following documents:
+* Yihui Xie's book [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/acknowledgments.html) 
+* Sean Kross's post on [How to Start a Bookdown Book](http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html)
