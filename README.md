@@ -1,6 +1,6 @@
-# multi-bookdown
+# multi-bookdown: multiple bookdowns for different purposes/audiences that share content and evolve together as conditions/analysis change 
 
-This is a minimal multi-bookdown example.
+## This is a minimal multi-bookdown example.
 
 Working with data is a back and forth process where proper communication with the internal teams and clients is fundamental. As such, it is common to have multiple Rmd/md's prepared for different purposes/audiences. These documents might share some content. As conditions, analysis, models and results evolve, documents that share part of their content start to diverge. Then either having to modify multiple documents becomes a burden, or the number of documents increases painfully.
 
@@ -12,7 +12,9 @@ After exploring several file structures that could help us achieve this, I came 
 
 * Another advantage of this example is that it truly contains the minimal number of files that are required to render a bookdown, so looking into the contents of `bookdown-1` should help getting started with any bookdown project.
 
-## how to use it
+## how to use
+
+Download ZIP of this repository.
 
 * Just place in the `rmd` folder all the Rmd/md files that the bookdowns will use
 * Create one `bookdown-n` folder per bookdown project.
