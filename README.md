@@ -2,7 +2,11 @@
 
 This is a minimal multi-bookdown example.
 
-The idea of a multi-bookdown template came from my work colleagues. Our aim was to find a way of producing several documents/reports that could share part of their content without having to go through each document and make changes to each one separately. After exploring several file structures that could help us achieve this, I came up with the structure presented in this repository. 
+Working with data is a back and forth process where proper communication with the internal teams and clients is fundamental. As such, it is common to have multiple Rmd/md's prepared for different purposes/audiences. These documents might share some content. As conditions, analysis, models and results evolve, documents that share part of their content start to diverge. Then either having to modify multiple documents becomes a burden, or the number of documents increases painfully.
+
+The idea of a multi-bookdown template came from discussions with my data scientist colleagues. Our aim was to find a way of producing several documents/reports that could share part of their content without having to go through each document and make changes to each one separately.
+
+After exploring several file structures that could help us achieve this, I came up with the structure presented in this repository. 
 
 * One advantage of the multi-bookdown file structure is that multiple bookdown projects can access Rmd/md files stored together in a separate folder outside each bookdown project folder.
 
