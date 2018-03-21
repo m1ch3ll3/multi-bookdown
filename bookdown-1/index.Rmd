@@ -1,6 +1,6 @@
 ---
 title: "A Book"
-author: "Frida Gomam"
+author: "Michelle Audirac"
 site: bookdown::bookdown_site
 documentclass: book
 output:
