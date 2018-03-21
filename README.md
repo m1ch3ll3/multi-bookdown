@@ -2,11 +2,11 @@
 
 This is a minimal multi-bookdown example.
 
-The idea of a multi-bookdown template came from my work colleagues. After exploring several file structures, I came up with the structure presented in this repository. 
+The idea of a multi-bookdown template came from my work colleagues. Our aim was to find a way of producing several documents/reports that could share part of their content without having to go through each document and make changes to each one separately. After exploring several file structures that could help us achieve this, I came up with the structure presented in this repository. 
 
-One advantage of the multi-bookdown file structure is that multiple bookdown projects can access Rmd/md files stored together in a separate folder outside each bookdown project folder.
+* One advantage of the multi-bookdown file structure is that multiple bookdown projects can access Rmd/md files stored together in a separate folder outside each bookdown project folder.
 
-Another advantage of this example is that it truly contains the minimal number of files that are required to render a bookdown, so looking into the contents of `bookdown-1` should help getting started with any bookdown project.
+* Another advantage of this example is that it truly contains the minimal number of files that are required to render a bookdown, so looking into the contents of `bookdown-1` should help getting started with any bookdown project.
 
 ## how to use it
 
