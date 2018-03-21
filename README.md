@@ -6,7 +6,7 @@ The idea of a multi-bookdown template came from my work colleagues. After explor
 
 One advantage of the multi-bookdown file structure is that multiple bookdown projects can access Rmd/md files stored together in a separate folder outside each bookdown project folder.
 
-Another advantage of this example is that it truly contains the minimal number of files that are required to render a bookdown.
+Another advantage of this example is that it truly contains the minimal number of files that are required to render a bookdown, so looking into the contents of `bookdown-1` should help getting started with any bookdown project.
 
 ## how to use it
 
