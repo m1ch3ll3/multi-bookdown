@@ -1,7 +1,8 @@
 # multi-bookdown
-## multiple bookdowns for different purposes/audiences that share content and evolve together as conditions/analysis change 
 
-Working with data is a back and forth process where proper communication with the internal teams and clients is fundamental. As such, it is common to have multiple Rmd/md's prepared for different purposes/audiences. These documents might share some content. As conditions, analysis, models and results evolve, documents that share part of their content start to diverge. Then either having to modify multiple documents becomes a burden, or the number of documents increases painfully.
+## multiple bookdowns for different purposes/audiences that share content
+
+**Working with data is a back and forth process where proper communication with the internal teams and clients is fundamental**. As such, it is common to have multiple Rmd/md's prepared for different purposes/audiences. These documents might share some content. As conditions, analysis, models and results evolve, documents that share part of their content start to diverge. Then either having to modify multiple documents becomes a burden, or the number of documents increases painfully.
 
 The idea of a multi-bookdown template came from discussions with my data scientist colleagues. Our aim was to find a way of producing several documents/reports that could share part of their content without having to go through each document and make changes to each one separately.
 
