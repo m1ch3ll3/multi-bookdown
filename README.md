@@ -35,9 +35,10 @@ Also, `index.Rmd`and `_bookdown.yml` contain the smallest amount of code to have
 
 ## where to find more 
 
-This repository is the result of several hours spent playing with bookdown after exploring the following documents:
+This repository is the result of several hours spent playing with bookdown and exploring previous work on the matter:
 * Yihui Xie's book [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/acknowledgments.html) 
 * Sean Kross's post on [How to Start a Bookdown Book](http://seankross.com/2016/11/17/How-to-Start-a-Bookdown-Book.html)
+* Alex Jackson blog [Fast and reproducible reports with bookdown](https://www.symbolix.com.au/blog-main/jagejccjfs77z6hndamhmwapt2tz3z)
 
 Hope this helps!
 
