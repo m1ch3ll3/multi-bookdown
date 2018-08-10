@@ -6,7 +6,7 @@
 
 The idea of a multi-bookdown template came from discussions with my data scientist colleagues. Our aim was to find a way of producing several documents/reports that could share part of their content without having to go through each document and make changes to each one separately.
 
-After exploring several file structures that could help us achieve this, I came up with the structure presented in this repository. 
+After exploring several file structures that could help us achieve this, we came up with the structure presented in this repository. 
 
 * One advantage of the multi-bookdown file structure is that multiple bookdown projects can access Rmd/md files stored together in a separate folder outside each bookdown project folder.
 
